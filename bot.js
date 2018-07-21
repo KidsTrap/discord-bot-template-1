@@ -11,4 +11,4 @@ client.on('message', message => {
   }
 });
 
-client.login('YOUR_DISCORD_BOT_TOKEN_HERE');
+client.login('NDYzMDIyMzczMzQ0NjQxMDI1.DjSuOA.84yNMGnT5Vu-8IyVgqBsXx_n9Xo');
