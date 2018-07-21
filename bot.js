@@ -11,4 +11,10 @@ client.on('message', message => {
   }
 });
 
+client.on('message', message => {
+  if (message.content === '^Developer') {
+    message.reply('_Brickmaster_#0218');
+  }
+});
+
 client.login('NDYzMDIyMzczMzQ0NjQxMDI1.DjSuOA.84yNMGnT5Vu-8IyVgqBsXx_n9Xo');
